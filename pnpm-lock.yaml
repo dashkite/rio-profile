@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@dashkite/joy':
+        specifier: link:../joy
+        version: link:../joy
       '@dashkite/katana':
         specifier: ^0.4.8
         version: 0.4.8

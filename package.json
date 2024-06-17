@@ -40,6 +40,7 @@
     "@dashkite/genie-module": "link:../genie-module"
   },
   "dependencies": {
+    "@dashkite/joy": "link:../joy",
     "@dashkite/katana": "^0.4.8",
     "@dashkite/profile": "link:../profile"
   }
