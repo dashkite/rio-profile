@@ -43,6 +43,6 @@
   "dependencies": {
     "@dashkite/joy": "link:../joy",
     "@dashkite/katana": "^0.4.8",
-    "@dashkite/profile": "link:../profile"
+    "@dashkite/profile": "0.2.0"
   }
 }
