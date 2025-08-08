@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/rio-profile",
-  "version": "0.10.12",
+  "version": "0.10.13",
   "description": "Rio combinators for use with Profiles",
   "keywords": [],
   "homepage": "https://github.com/dashkite/rio-profile#readme",
